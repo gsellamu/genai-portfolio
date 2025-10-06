@@ -68,5 +68,8 @@ python -m venv .venv \&\& source .venv/bin/activate
 
 pip install -r requirements.txt
 
+## Demos
+- Chat transcript(s): `./chats/`
+- Diagrams: `./docs/` (see `system-context.md`, `architecture.png`)
 
 
