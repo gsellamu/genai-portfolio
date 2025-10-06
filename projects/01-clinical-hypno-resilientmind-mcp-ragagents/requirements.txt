@@ -1,4 +1,4 @@
-fastapi
+﻿fastapi
 uvicorn
 pydantic
 pytest
